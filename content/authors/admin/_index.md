@@ -69,11 +69,6 @@ education:
     date_start: 2009-08-01
     date_end: 2014-07-31
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
