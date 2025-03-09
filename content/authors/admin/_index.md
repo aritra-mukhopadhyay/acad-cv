@@ -60,41 +60,28 @@ education:
     date_start: 2014-08-01
     date_end: 2020-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Peter Schmelcher](https://www.physik.uni-hamburg.de/en/iqp/schmelcher/personen/schmelcher.html).
+      Thesis on _Controlling translational and vortical transport in classical driven lattices_. Supervised by [Prof Peter Schmelcher](https://www.physik.uni-hamburg.de/en/iqp/schmelcher/personen/schmelcher.html).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://ediss.sub.uni-hamburg.de/handle/ediss/8651'
   - area: B.S. & M.S. in Physics
     institution: Indian Institute of Science Education and Research - Kolkata
     date_start: 2009-08-01
     date_end: 2014-07-31
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
   - position: Post-doctoral Researcher
     company_name: TU Darmstadt
     company_url: 'https://www.tu-darmstadt.de/index.en.jsp'
-    company_logo: tud
+    company_logo: custom/tud
     location: Darmstadt, Germany
     date_start: '2020-09-01'
     date_end: ''
     #summary: |2-
      #   Responsibilities include:
-        
-      #  * Analysing
-      #  * Modelling
-      #  * Deploying
+      #  - Analysing
+      #  - Modelling
+      #  - Deploying
         
   - position: Doctoral Researcher
     company_name: University of Hamburg
