@@ -73,7 +73,7 @@ work:
   - position: Post-doctoral Researcher
     company_name: TU Darmstadt
     company_url: 'https://www.tu-darmstadt.de/index.en.jsp'
-    company_logo: custom/tud
+    company_logo: 'custom/tud'
     location: Darmstadt, Germany
     date_start: '2020-09-01'
     date_end: ''
