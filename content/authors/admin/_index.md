@@ -45,11 +45,9 @@ profiles:
     url: https://scholar.google.com/citations?user=2UJeb74AAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4899-0491
-  - icon: publons
-    icon_pack: ai
+  - icon: academicons/publons
     url: https://publons.com/researcher/1674968/aritra-k-mukhopadhyay/
-  - icon: researchgate
-    icon_pack: ai
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Aritra-Mukhopadhyay-2
 interests:
   - Soft Active Matter
@@ -59,35 +57,23 @@ interests:
 education:
   - area: PhD in Physics
     institution: University of Hamburg
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-08-01
+    date_end: 2020-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Peter Schmelcher](https://www.physik.uni-hamburg.de/en/iqp/schmelcher/personen/schmelcher.html).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: B.S. & M.S. in Physics
     institution: Indian Institute of Science Education and Research - Kolkata
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    date_start: 2009-08-01
+    date_end: 2014-07-31
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -100,17 +86,65 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - position: Post-doctoral Researcher
+    company_name: TU Darmstadt
+    company_url: 'https://www.tu-darmstadt.de/index.en.jsp'
+    company_logo: tud
+    location: Darmstadt, Germany
+    date_start: '2020-09-01'
+    date_end: ''
+    #summary: |2-
+     #   Responsibilities include:
+        
+      #  * Analysing
+      #  * Modelling
+      #  * Deploying
+        
+  - position: Doctoral Researcher
+    company_name: University of Hamburg
+    company_url: 'https://www.uni-hamburg.de/en.html'
+    company_logo: uhh
+    location: Hamburg, Germany
+    date_start: '2014-09-01'
+    date_end: '2020-08-31'
+    #summary: Taught electronic engineering and researched semiconductor physics.
+
+  - position: Graduate Student
+    company_name: Indian Institute of Science Education and Research - Kolkata
+    company_url: 'https://www.iiserkol.ac.in/web/en/#gsc.tab=0'
+    company_logo: iiserk
+    location: Kolkata, India
+    date_start: '2009-08-01'
+    date_end: '2014-06-30'
+    #summary: Taught electronic engineering and researched semiconductor physics. 
+
+  - position: Visiting Research Fellow
+    company_name: S.N. Bose National Centre for Basic Sciences
+    company_url: 'https://www.bose.res.in/'
+    company_logo: snbncbs
+    location: Kolkata, India
+    date_start: '2012-05-01'
+    date_end: '2014-01-30'
+    #summary: Taught electronic engineering and researched semiconductor physics. 
+
+  - position: Visiting Research Fellow
+    company_name: Tata Institute of Fundamental Research
+    company_url: 'https://www.tifr.res.in/'
+    company_logo: tifr
+    location: Mumbai, India
+    date_start: '2013-05-01'
+    date_end: '2013-07-30'
+    #summary: Taught electronic engineering and researched semiconductor physics.
+
+  - position: Visiting Research Fellow
+    company_name: Indian Institute of Science
+    company_url: 'https://iisc.ac.in/'
+    company_logo: iisc
+    location: Bangalore, India
+    date_start: '2011-05-01'
+    date_end: '2011-07-30'
+    #summary: Taught electronic engineering and researched semiconductor physics.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -149,9 +183,11 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Bengali
+    percent: 100
+  - name: Hindi
     percent: 75
-  - name: Portuguese
+  - name: German
     percent: 25
 
 # Awards.
@@ -166,24 +202,6 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
